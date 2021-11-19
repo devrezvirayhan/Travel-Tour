@@ -44,6 +44,9 @@ const Navbar = () => {
           <Link to="/myorderHome">
             <Button style={{ textDecoration: 'none', color: "white" }} color="inherit">My Order</Button>
           </Link>
+          <Link to="/addService">
+            <Button style={{ textDecoration: 'none', color: "white" }} color="inherit">Add Service</Button>
+          </Link>
 
 
           {

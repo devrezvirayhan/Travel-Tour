@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
 import { useParams } from "react-router";
+import Footer from "../Footer/Footer";
+import Navbar from "../Navbar/Navbar";
 import useAuth from './../../../hooks/useAuth';
 
 const MyLocationBooking = () => {
@@ -35,6 +37,9 @@ const MyLocationBooking = () => {
    
   return (
     <div>
+      <div>
+        <Navbar></Navbar>
+      </div>
       <h1>Plause Booking</h1>
 
       <div className="booking-container">
@@ -92,6 +97,9 @@ const MyLocationBooking = () => {
             </form>
           </div>
         </div>
+      </div>
+      <div>
+        <Footer></Footer>
       </div>
     </div>
   );

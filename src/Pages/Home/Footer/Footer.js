@@ -11,10 +11,10 @@ const Footer = () => {
                         <Box>
                             <h1>Brand</h1>
                             <div class="d-flex flex-column">
-                                <div class="p-1">Land Rover</div>
-                                <div class="p-1">Lexus</div>
-                                <div class="p-1">Porsche</div>
-                                <div class="p-1">Rolls Royce</div>
+                                <div class="p-1">St. Lucia</div>
+                                <div class="p-1">Yosemite</div>
+                                <div class="p-1">Florence</div>
+                                <div class="p-1">Santorini</div>
                             </div>
                         </Box>
                     </Grid>
@@ -22,10 +22,10 @@ const Footer = () => {
                         <Box>
                             <h1>Usefull Links</h1>
                             <div class="d-flex flex-column">
-                                <div class="p-1">Toyota Corolla</div>
-                                <div class="p-1">Toyota Noah</div>
-                                <div class="p-1">Mitsubishi Pajero</div>
-                                <div class="p-1">Toyota Allion</div>
+                                <div class="p-1">Great Barrier Reef</div>
+                                <div class="p-1">Yellowstone</div>
+                                <div class="p-1">Niagara Falls</div>
+                                <div class="p-1">San Francisco</div>
                             </div>
                         </Box>
                     </Grid>
@@ -33,17 +33,17 @@ const Footer = () => {
                         <Box>
                             <h1>Address</h1>
                             <div class="d-flex flex-column">
-                                <div class="p-1">200, D-block, Green lane USA</div>
-                                <div class="p-1">+880 1749497676</div>
+                                <div class="p-1">200, D-block,South Island, New Zealand</div>
+                                <div class="p-1">+88 99695455155</div>
                                 <div class="p-1">+098 5425425742</div>
-                                <div class="p-1">teslacar @gmail.com</div>
+                                <div class="p-1">teaveltoor@gmail.com</div>
                             </div>
                         </Box>
                     </Grid>
                 </Grid>
                 <hr />
             </Container>
-            <p>All Right Reserved © Tesla Car</p>
+            <p>All Right Reserved © Teaviling Toor</p>
         </div>
         
 

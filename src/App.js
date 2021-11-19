@@ -58,6 +58,9 @@ function App() {
             <PrivetRoute path="/myLbooking/:bookingLID">
               <MyLocationBooking></MyLocationBooking>
             </PrivetRoute>
+            <PrivetRoute path="/addService">
+              <AddService></AddService>
+            </PrivetRoute>
 
 
 
