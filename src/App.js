@@ -37,43 +37,18 @@ function App() {
             <PrivetRoute path="/alllocation">
             <Location></Location>
             </PrivetRoute>
-            
             <PrivetRoute path="/myorderHome">``
             <MyOrderHome></MyOrderHome>
             </PrivetRoute>
-
-            
             <PrivetRoute path="/mybooking/:bookingID">
               <MyBooking></MyBooking>
             </PrivetRoute>
-
-
-
-
-
-
-
-
-
             <PrivetRoute path="/myLbooking/:bookingLID">
               <MyLocationBooking></MyLocationBooking>
             </PrivetRoute>
             <PrivetRoute path="/addService">
               <AddService></AddService>
             </PrivetRoute>
-
-
-
-
-
-
-
-
-
-
-
-
-            
             <Route exact path="/">
               <Home></Home>
             </Route>

@@ -1,13 +1,11 @@
-# Tesla Car Our New WebSite
-PALO ALTO, Calif. – Tesla Motors, Inc. (Nasdaq: TSLA) today announced its preliminary unaudited financial results for the quarter and year ended December 31, 2010. Revenues for the fourth quarter of 2010 were $36.3 million, a 16% increase from the $31.2 million reported in the prior quarter. Gross margin improved to 31%, up from 30% for the prior quarter
+# Traviling Toor 
+With a world full of fascinating destinations, choosing the perfect vacation spot can present a challenge. That's why U.S. News used expert opinions, reader votes and current trends – and evaluated sights, cultures, scenic beauty, food scenes and more – to compile this list of the world's best places to visit. Use these recommendations to craft your travel bucket list, and cast your vote below to help us determine next year's list. (Note: Some of the below destinations may be affected by the coronavirus outbreak. Check with the CDC and the U.S. Department of State before traveling.)
+
+## [Live Site Link](https://traveling-8e246.web.app/)
+### [Client Site Ripo Link]https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-rezvirayhan2002)
 
 
-## [Live Site Ripo Link](https://tesla-car-16994.web.app/)
-### [Client Site Ripo Link](https://github.com/programming-hero-web-course-4/niche-website-client-side-rezvirayhan2002)
-#### [Server Site Ripo Link](https://github.com/programming-hero-web-course-4/niche-website-server-side-rezvirayhan2002)
 
-
-In the project directory, you can run:
 
 ### `yarn start`
 
@@ -15,9 +13,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+New Zealand's South Island brims with majestic landscapes at every turn, from dramatic mountains to fjords to glaciers. Here, you can 
 
 ### `yarn test`
 
@@ -25,24 +21,16 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## `Tesla Roadster drives environmental responsibility during Berlin Fashion Week`
-
-BERLIN, Germany –The Tesla Roadster will drive the message of environmental responsibility at Berlin Fashion Week’s “Green Avantgarde,“ which showcases some of the world’s most exciting and environmentally friendly designers.
-
-
+The magnetic City of Light draws visitors from around the globe who come to see iconic attractions like the Eiffel Tower, the Louvre and the Arc de Triomphe. But what travelers really fall in love with are the city's quaint cafes, vibrant markets, trendy shopping districts and unmistakable je ne sais quoi charm. Get lost wandering along Paris' cobblestone streets, or grab a croissant and relax on the banks of the Seine for hours. If you're up for a quick daytrip
 ### `Tesla Motors January 18, 2011`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+What this small French Polynesian island may lack in size it makes up for in sheer tropical beauty. Here, you'll find picturesque beaches, lush jungles and luxurious resorts. The island's dormant volcano, Mount Otemanu, makes for a great photo-op or challenging hike, and the friendly Bora Bora locals can help you catch a glimpse of the island's best sights during an off-road excursion. To relax, head to Matira Beach for crystal-clear water and soft sand
 
-Model S, engineered from the ground as an EV, is meticulously designed for superior aerodynamics, stability and handling, crash safety, performance and range. Before Model S enters production it will have been thoroughly tested using both computer simulations and test vehicles. Tesla will complete two vehicle testing phases, Alpha and Beta. The Alpha phase began in 2010.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Tesla Car
+## Toor
 
 As part of our European sales launch, Tesla Motors participated as an exhibitor at Top Marques Monaco April 24th - 27th where we met many of our first EU ...
 
 ### News
-Tesla FSD Beta continues to prove its reliability. The newest technology allowed a Tesla car to independently make an unprotected turn in downtown San Francisco with obstruction from a truck, which would have caused difficulty even for an experienced driver.
-
-There is a lot of controversies when it comes to Tesla's FSD Beta technology. On the one hand, this is a new technology that has not yet been fully developed and must go through deep and extensive testing by responsible drivers. On the other hand, this is the technology of the future, which will ultimately allow cars to be fully autonomous, and do not require a human driver to drive. Be that as it may, this issue will cause controversy for a long time to come. However, the facts and real-life experience of drivers with FSD Beta can help clarify concerns.
+hether you're driving along the Road to Hana, enjoying a bird's-eye view of the lush coastline from a helicopter, snorkeling with sea turtles or simply relaxing on the Hawaiian island's honey- or black-colored beaches, you'll fin
