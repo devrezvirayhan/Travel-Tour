@@ -8,7 +8,7 @@ import Navbar from "../Navbar/Navbar";
 const Location = () => {
   const [services, setServices] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/allLocation")
+    fetch("https://rocky-atoll-42462.herokuapp.com/allLocation")
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, []);

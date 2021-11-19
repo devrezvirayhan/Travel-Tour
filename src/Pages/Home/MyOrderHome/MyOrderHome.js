@@ -12,13 +12,13 @@ const {user}=useAuth()
   const [control, setControl] = useState(false);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/myOrders/${user?.email}`)
+    fetch(`https://rocky-atoll-42462.herokuapp.com/myOrders/${user?.email}`)
       .then((res) => res.json())
       .then((data) => setServices(data));
   }, [user?.email]);
 
   const handleDelete = (id) => {
-    fetch(`http://localhost:5000/delteOrder/${id}`, {
+    fetch(`https://rocky-atoll-42462.herokuapp.com/delteOrder/${id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())

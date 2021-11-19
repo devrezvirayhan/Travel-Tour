@@ -11,7 +11,7 @@ const MyBooking = () => {
   const { bookingID } = useParams();
   const [service, setService]= useState()
   useEffect(()=>{
-      fetch(`http://localhost:5000/singlProduct/${bookingID}`)
+      fetch(`https://rocky-atoll-42462.herokuapp.com/singlProduct/${bookingID}`)
       .then(res => res.json())
       .then(data => setService(data))
   },[])
@@ -25,7 +25,7 @@ const MyBooking = () => {
 
   const onSubmit = (data) =>{
     data.email=user.email
-    fetch('http://localhost:5000/coformOrder', {
+    fetch('https://rocky-atoll-42462.herokuapp.com/coformOrder', {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(data),

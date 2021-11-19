@@ -11,7 +11,7 @@ const MyLocationBooking = () => {
   const { bookingLID } = useParams();
   const [service, setService]= useState()
   useEffect(()=>{
-      fetch(`http://localhost:5000/singlLocationProduct/${bookingLID}`)
+      fetch(`https://rocky-atoll-42462.herokuapp.com/singlLocationProduct/${bookingLID}`)
       .then(res => res.json())
       .then(data => setService(data))
   },[])
@@ -25,14 +25,15 @@ const MyLocationBooking = () => {
 
   const onSubmit = (data) =>{
     data.email=user.email
-    fetch('http://localhost:5000/coformLocationOrder', {
+    fetch('https://rocky-atoll-42462.herokuapp.com/coformLocationOrder', {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(data),
     })
     .then((res) => res.json())
     .then((result) => console.log(result));
-  console.log(data);
+       console.log(data);
+       
 };
    
   return (
@@ -67,7 +68,6 @@ const MyLocationBooking = () => {
                 className="p-2 m-2 w-100"
               />
               <br />
-
               <input
                 {...register("price", { required: true })}
                 defaultValue={service?.Price}
